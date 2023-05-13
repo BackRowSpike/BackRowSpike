@@ -1,0 +1,1 @@
+﻿INSERT INTO Bank(name) VALUES('Wells Fargo');

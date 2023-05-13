@@ -1,0 +1,1 @@
+﻿ALTER TABLE Company ADD [credit rating] int NOT NULL;

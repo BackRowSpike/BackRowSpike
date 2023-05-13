@@ -1,0 +1,1 @@
+﻿CREATE UNIQUE INDEX [account id] ON [BankAccount] ([account number] ASC);

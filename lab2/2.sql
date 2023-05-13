@@ -1,0 +1,1 @@
+﻿SELECT name + ' ' + CAST([company id] AS nvarchar(2)) FROM Company;

@@ -1,0 +1,1 @@
+﻿UPDATE Bank  SET name='Wells Fargo' WHERE [bank id]=10;
